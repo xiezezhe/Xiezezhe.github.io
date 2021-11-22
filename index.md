@@ -1,9 +1,18 @@
-## Welcome to GitHub Pages
+## 谢泽哲2006010209
 
-You can use the [editor on GitHub](https://github.com/xiezezhe/Xiezezhe.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+姓名：谢泽哲
+性别：男
+出生年月：2002年4月10日
+籍贯：湖南岳阳
+专业：旅游管理
+政治面貌：共青团员
+电子邮件：727209884@qq.com
+技能：英语四级，计算机二级，韩语中级
+兴趣爱好：唱歌，学习
+教育背景：湖南工商大学
+主修课程：旅管
+获奖情况：无
+自我评价：本人工作认真负责，性格开朗，有团队精神，较强的责任心，为人诚实且好学上进，希望自己坚持不懈，专心学习，将来找到适合自己的工作。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
